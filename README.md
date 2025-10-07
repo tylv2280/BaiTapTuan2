@@ -1,5 +1,4 @@
 # BaiTapTuan2  
 Ảnh chụp sản phẩm
 
-
-<img width="437" height="934" alt="image" src="https://github.com/user-attachments/assets/5502f11e-fe70-4fa1-b517-91f629537b26" />
+<img width="527" height="944" alt="image" src="https://github.com/user-attachments/assets/869b2e87-14a9-4621-9c1d-1c62bd50051a" />
